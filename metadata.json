@@ -1,0 +1,5 @@
+{
+  "name": "OracleLOL",
+  "description": "AI를 사용하여 리그 오브 레전드 e스포츠 경기의 승자를 예측하고, 사용자가 가상 화폐를 베팅하여 잔액을 늘려나가는 엔터테인먼트 웹 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
